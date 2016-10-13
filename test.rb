@@ -3,3 +3,5 @@ def test
 end
 
 2.times do { test }
+
+Hi
