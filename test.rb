@@ -2,4 +2,4 @@ def test
     puts "TEST"
 end
 
-test
+2.times do { test }
